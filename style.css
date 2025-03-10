@@ -100,4 +100,13 @@ section{
         border-radius: 10px;
         margin-bottom: 24px;
     }
+    .title{
+        font-size: 24px;
+    }
+    .description{
+        font-size: 16px;
+    }
+    .date, .type-course{
+        font-size: 14px;
+    }
 }
