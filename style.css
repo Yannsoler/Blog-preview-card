@@ -94,6 +94,9 @@ section{
     main.card{
         width: 384px;
     }
+    section{
+        max-width: 336px;
+    }
     img.illustration{
         width: 336px;
         height: 200px;
